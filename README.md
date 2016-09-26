@@ -13,3 +13,4 @@ Scripts para ejecutar image magick de forma sencilla
 * ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
 * ```allToQ30.bat``` convierte todas las imágenes jpg a calidad 30%
 * ```allToQ50.bat``` convierte todas las imágenes jpg a calidad 50%
+* ```allToQ30_DIN_A4_vertical.bat``` convierte todas las imágenes jpg a calidad 30% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
