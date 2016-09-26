@@ -17,6 +17,7 @@ Scripts para ejecutar image magick de forma sencilla
 * ```allToQ30_resize50.sh``` convierte todas las imágenes jpg a calidad 30% reduciendo el alto y el ancho al 50%
 * ```allToQ50_resize50.sh``` convierte todas las imágenes jpg a calidad 50% reduciendo el alto y el ancho al 50%
 * ```join2pdfQ30.sh``` convierte las imágenes pasadas por parámetro en un pdf con el mismo nombre que la primera imagen. Convierte todas las imágenes jpg a calidad 30% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
+* ```join2pdfQ50.sh``` convierte las imágenes pasadas por parámetro en un pdf con el mismo nombre que la primera imagen. Convierte todas las imágenes jpg a calidad 50% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
 
 ## Windows
 * ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
