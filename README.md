@@ -9,6 +9,7 @@ Scripts para ejecutar image magick de forma sencilla
 ## Linux
 * ```allJpgToPng.sh``` convierte todas las imágenes jpg del directorio en png
 * ```allToQ30.sh``` convierte todas las imágenes jpg a calidad 30%
+* ```allToQ50.sh``` convierte todas las imágenes jpg a calidad 50%
 
 ## Windows
 * ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
