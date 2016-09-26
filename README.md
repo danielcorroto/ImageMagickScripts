@@ -12,3 +12,4 @@ Scripts para ejecutar image magick de forma sencilla
 ## Windows
 * ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
 * ```allToQ30.bat``` convierte todas las imágenes jpg a calidad 30%
+* ```allToQ50.bat``` convierte todas las imágenes jpg a calidad 50%
