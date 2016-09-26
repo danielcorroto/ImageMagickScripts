@@ -10,3 +10,4 @@ Scripts para ejecutar image magick de forma sencilla
 
 
 ## Windows
+* ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
