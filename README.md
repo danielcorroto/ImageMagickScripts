@@ -15,3 +15,4 @@ Scripts para ejecutar image magick de forma sencilla
 * ```allToQ50.bat``` convierte todas las imágenes jpg a calidad 50%
 * ```allToQ30_DIN_A4_vertical.bat``` convierte todas las imágenes jpg a calidad 30% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
 * ```allToQ50_DIN_A4_vertical.bat``` convierte todas las imágenes jpg a calidad 50% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
+* ```allToQ30_resize50.bat``` convierte todas las imágenes jpg a calidad 30% reduciendo el alto y el ancho al 50%
