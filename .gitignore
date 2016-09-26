@@ -1,0 +1,5 @@
+convert.exe
+*.jpg
+*.png
+*.pdf
+out/*
