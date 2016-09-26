@@ -5,6 +5,8 @@ Scripts para ejecutar image magick de forma sencilla
 * [ImageMagick](http://www.imagemagick.org/script/index.php)
   * Linux (en Debian/Ubuntu ```apt-get install imagemagick```)
   * Windows (Descargar de la web, imprescindible convert.exe en %PATH% o en el mismo directorio que el script)
+* GhostScript (opcional, para generar pdf)
+  * Linux (en Debian/Ubuntu ```apt-get install ghostscript```)
 
 ## Linux
 * ```allJpgToPng.sh``` convierte todas las imágenes jpg del directorio en png
@@ -14,6 +16,7 @@ Scripts para ejecutar image magick de forma sencilla
 * ```allToQ50_DIN_A4_vertical.sh``` convierte todas las imágenes jpg a calidad 50% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
 * ```allToQ30_resize50.sh``` convierte todas las imágenes jpg a calidad 30% reduciendo el alto y el ancho al 50%
 * ```allToQ50_resize50.sh``` convierte todas las imágenes jpg a calidad 50% reduciendo el alto y el ancho al 50%
+* ```join2pdfQ30.sh``` convierte las imágenes pasadas por parámetro en un pdf con el mismo nombre que la primera imagen. Convierte todas las imágenes jpg a calidad 30% recortando y añadiendo fondo blanco hasta alcanzar el tamaño de DIN A4 vertical
 
 ## Windows
 * ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
