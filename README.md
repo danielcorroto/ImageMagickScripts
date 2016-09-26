@@ -7,7 +7,7 @@ Scripts para ejecutar image magick de forma sencilla
   * Windows (Descargar de la web, imprescindible convert.exe en %PATH% o en el mismo directorio que el script)
 
 ## Linux
-
+* ```allJpgToPng.sh``` convierte todas las imágenes jpg del directorio en png
 
 ## Windows
 * ```allJpgToPng.bat``` convierte todas las imágenes jpg del directorio en png
